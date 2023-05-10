@@ -87,12 +87,6 @@ public double getSubTotal(){
 
     }
 
-    //System.out.println("Bill ID = " + BillID);
-    //        System.out.println("overage =" + overage );
-    //        System.out.println("Subtotal =" + subTotal);
-    //        System.out.println("Tax =" + Tax);
-    //        System.out.println("Total = " +total);
-    // overage = overageMinutes * overAgeChargePerCent;
-    //Tax = subtotal * taxPercent
+ 
 
 }
